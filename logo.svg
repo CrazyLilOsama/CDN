@@ -1,19 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
-    <title>Logo</title>
-    <g id="Logo" transform="translate(-8.000000, -2.000000)">
-      <g transform="translate(11.000000, 5.000000)">
-        <polygon
-          id="Shape"
-          stroke="#64FFDA"
-          strokeWidth="5"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          points="39 0 0 22 0 67 39 90 78 68 78 23"
-        />
-        <path
-          d="M52,30.3L40,48v13h-4.1V48L23.9,30.3h4.9L38,44.4l9.1-14.1H52z"
-          fill="#64FFDA"
-        />
-      </g>
-    </g>
-  </svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 284.28 246.2">
+  <title>logo</title>
+  <polygon points="284.28 0 263.92 35.25 182.9 175.6 162.52 210.89 142.14 246.2 121.76 210.89 142.14 175.6 162.52 140.3 223.16 35.25 182.41 35.25 142.14 105 101.88 35.25 61.12 35.25 121.76 140.3 101.38 175.6 20.36 35.25 0 0 284.28 0" fill="#0b5fff"/>
+</svg>
